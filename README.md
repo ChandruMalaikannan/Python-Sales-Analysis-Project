@@ -26,5 +26,6 @@ A simple and effective **Pandas-driven sales analysis** project showcasing data 
 
 ## 👤 Author
 **Chandru M**
+For any questions or collaboration, connect with me on LinkedIn: 👉 https://www.linkedin.com/in/chandru-malaikannan-48a3ab368
 
 
